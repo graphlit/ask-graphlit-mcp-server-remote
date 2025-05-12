@@ -2,6 +2,8 @@
 
 ## Overview
 
+Ask questions about using the Graphlit Platform, or specifically about the Graphlit API or SDKs.
+ 
 For any questions on using the AskGraphlit MCP tool, please join our [Discord](https://discord.gg/ygFmfjy3Qx) community and post on the #mcp channel.
 
 ## Tools
