@@ -10,7 +10,7 @@ For any questions on using the AskGraphlit MCP tool, please join our [Discord](h
 
 ## Installation
 
-In your MCP client, enter the Graphlit remote MCP server address: https://ask.graphlit.dev/sse
+In your MCP client, enter the Graphlit remote MCP server address: https://ask.mcp.graphlit.dev/sse
 
 ## Support
 
