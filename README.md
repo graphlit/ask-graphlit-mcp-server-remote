@@ -14,6 +14,8 @@ For any questions on using the AskGraphlit MCP tool, please join our [Discord](h
 
 In your MCP client, enter the Graphlit remote MCP server address: https://ask.mcp.graphlit.dev/sse
 
+![carbon - 2025-05-12T144550 152](https://github.com/user-attachments/assets/7889b843-9294-4d4f-96fb-f38417d5ac8c)
+
 ## Support
 
 Please refer to the [Graphlit API Documentation](https://docs.graphlit.dev/).
