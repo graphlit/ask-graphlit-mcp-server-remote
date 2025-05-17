@@ -1,8 +1,7 @@
 import { Graphlit } from "graphlit-client";
-import { McpServer } from "@modelcontextprotocol/sdk/server/mcp.js";
 import { z } from "zod";
 
-export function registerTools(server: McpServer) {
+export function registerTools(server: any) {
     server.tool(
     "askGraphlit",
     `Ask questions about using the Graphlit Platform, or specifically about the Graphlit API or SDKs.
@@ -12,7 +11,7 @@ export function registerTools(server: McpServer) {
     { 
         prompt: z.string().describe("LLM user prompt.")
     },
-    async ({ prompt }) => {
+    async ({ prompt }: { prompt: string }) => {
         const client = new Graphlit();
 
         try {
